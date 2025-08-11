@@ -1,0 +1,8 @@
+{
+  "hash": "a7de7b05d1",
+  "type": "MQTT_CLIENT_WIDGET",
+  "icon": "https://www.emqx.com/favicon.ico",
+  "title": "MQTT 客户端控件",
+  "version": "1.0.0",
+  "docs": "https://www.npmjs.com/package/mqtt"
+}

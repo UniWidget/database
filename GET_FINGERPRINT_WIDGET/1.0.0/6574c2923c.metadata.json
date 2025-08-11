@@ -1,0 +1,7 @@
+{
+  "hash": "6574c2923c",
+  "type": "GET_FINGERPRINT_WIDGET",
+  "icon": "https://cdn.cocotais.cn/project/waddle-2/logo/waddle2-logo.svg",
+  "title": "获取指纹",
+  "version": "1.0.0"
+}

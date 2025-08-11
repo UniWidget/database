@@ -1,0 +1,8 @@
+{
+  "hash": "1383a7aa8f",
+  "type": "FILE_INPUT_FYM_WIDGET",
+  "icon": "",
+  "title": "文件选择器",
+  "version": "1.0.0",
+  "docs": "https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/Input/file#attr-accept"
+}

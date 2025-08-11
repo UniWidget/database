@@ -1,0 +1,7 @@
+{
+  "hash": "4da125c7a2",
+  "type": "STRING_REPLACE_WIDGET",
+  "icon": "path/to/replace-icon.svg",
+  "title": "垃圾桶-字符串替换",
+  "version": "1.0.0"
+}

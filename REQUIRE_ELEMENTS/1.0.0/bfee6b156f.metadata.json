@@ -1,0 +1,7 @@
+{
+  "hash": "bfee6b156f",
+  "type": "REQUIRE_ELEMENTS",
+  "icon": "icon-open-console-log",
+  "title": "动态引入JS/CSS",
+  "version": "1.0.0"
+}

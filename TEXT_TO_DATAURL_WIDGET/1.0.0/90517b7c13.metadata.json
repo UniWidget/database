@@ -1,0 +1,7 @@
+{
+  "hash": "90517b7c13",
+  "type": "TEXT_TO_DATAURL_WIDGET",
+  "icon": "https://cdn.cocotais.cn/project/waddle-2/logo/waddle2-logo.svg",
+  "title": "文本转dataURL",
+  "version": "1.0.0"
+}

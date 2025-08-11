@@ -1,0 +1,7 @@
+{
+  "hash": "6c029ee7b3",
+  "type": "REGEX_VALIDATOR",
+  "icon": "https://example.com/regex-icon.svg",
+  "title": "正则验证器",
+  "version": "1.0.0"
+}

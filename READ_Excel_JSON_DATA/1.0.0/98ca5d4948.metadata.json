@@ -1,0 +1,7 @@
+{
+  "hash": "98ca5d4948",
+  "type": "READ_Excel_JSON_DATA",
+  "icon": "https://cdn.cocotais.cn/project/waddle-2/logo/waddle2-logo.svg",
+  "title": "读取Excel表格",
+  "version": "1.0.0"
+}

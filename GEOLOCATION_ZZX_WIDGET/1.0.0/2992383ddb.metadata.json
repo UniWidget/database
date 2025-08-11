@@ -1,0 +1,8 @@
+{
+  "hash": "2992383ddb",
+  "type": "GEOLOCATION_ZZX_WIDGET",
+  "icon": "",
+  "title": "地理定位",
+  "version": "1.0.0",
+  "docs": "https://w3c.github.io/geolocation-api/#position_error_interface"
+}

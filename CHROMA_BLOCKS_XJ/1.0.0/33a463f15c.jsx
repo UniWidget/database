@@ -1,0 +1,5 @@
+var 危险模式 = false
+// 七彩积木（开启危险模式后）导入后会发生：
+// 立即保存，下次进入该作品也会继续七彩化
+// 界面上的所有积木会变成七彩颜色
+var document=this.document;const types={type:"CHROMA_BLOCKS_XJ",icon:"icon-toolbox-variable",title:"七彩积木",isInvisibleWidget:false,isGlobalWidget:false,properties:[],methods:[],events:[]};class XJWidget extends VisibleWidget{constructor(p){super(p)}render(){return(<div dangerouslySetInnerHTML={{__html:`<style>.blocklyPath{fill:${'rgba('+Math.floor(Math.random()*255)+','+Math.floor(Math.random()*255)+','+Math.floor(Math.random()*255)+',0.8)'}}</style>`}}/>)}}exports.types=types;exports.widget=XJWidget;if(危险模式){document.querySelector(`*[class*="Header_saveText"]`).click();css=document.createElement("style");css.innerHTML=`.blocklyPath{fill:${'rgba('+Math.floor(Math.random()*255)+','+Math.floor(Math.random()*255)+','+Math.floor(Math.random()*255)+',0.8)'}}`;document.body.append(css)}

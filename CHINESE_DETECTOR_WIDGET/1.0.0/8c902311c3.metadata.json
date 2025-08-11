@@ -1,0 +1,7 @@
+{
+  "hash": "8c902311c3",
+  "type": "CHINESE_DETECTOR_WIDGET",
+  "icon": "path/to/icon.svg",
+  "title": "汉字检测器",
+  "version": "1.0.0"
+}

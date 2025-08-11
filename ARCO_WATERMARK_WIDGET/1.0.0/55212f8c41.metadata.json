@@ -1,0 +1,8 @@
+{
+  "hash": "55212f8c41",
+  "type": "ARCO_WATERMARK_WIDGET",
+  "icon": "https://arco.design/favicon.ico",
+  "title": "Arco Design 水印控件",
+  "version": "1.0.0",
+  "docs": "https://arco.design/vue/component/watermark"
+}

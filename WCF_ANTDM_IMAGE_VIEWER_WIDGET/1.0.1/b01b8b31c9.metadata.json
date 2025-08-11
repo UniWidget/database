@@ -1,0 +1,8 @@
+{
+  "hash": "b01b8b31c9",
+  "type": "WCF_ANTDM_IMAGE_VIEWER_WIDGET",
+  "icon": "https://gw.alipayobjects.com/zos/bmw-prod/b874caa9-4458-412a-9ac6-a61486180a62.svg",
+  "title": "Antd-mobile图片查看器",
+  "version": "1.0.1",
+  "docs": "https://mobile.ant.design/zh/components/image-viewer"
+}

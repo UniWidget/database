@@ -1,0 +1,7 @@
+{
+  "hash": "a195b1033e",
+  "type": "SIMPLE_TEXT_INPUT",
+  "icon": "https://example.com/text-input-icon.svg",
+  "title": "普通输入框",
+  "version": "1.0.0"
+}

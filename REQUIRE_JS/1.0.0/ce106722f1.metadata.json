@@ -1,0 +1,7 @@
+{
+  "hash": "ce106722f1",
+  "type": "REQUIRE_JS",
+  "icon": "icon-open-console-log",
+  "title": "动态引入JS",
+  "version": "1.0.0"
+}

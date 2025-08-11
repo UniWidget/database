@@ -1,0 +1,8 @@
+{
+  "hash": "41fe971183",
+  "type": "ARCO_MESSAGE_WIDGET",
+  "icon": "https://arco.design/favicon.ico",
+  "title": "Arco Design 全局提醒",
+  "version": "1.0.0",
+  "docs": "https://arco.design/vue/component/message"
+}
